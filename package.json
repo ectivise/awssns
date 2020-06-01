@@ -1,0 +1,23 @@
+{
+  "name": "awssns",
+  "version": "1.0.0",
+  "description": "aws sns examples",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ectivise/awssns.git"
+  },
+  "keywords": [
+    "aws",
+    "sns"
+  ],
+  "author": "liqin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ectivise/awssns/issues"
+  },
+  "homepage": "https://github.com/ectivise/awssns#readme"
+}
